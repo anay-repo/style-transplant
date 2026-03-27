@@ -1,0 +1,8 @@
+{
+  "prompt": "Chinese ink wash painting, Shuimo style, Song dynasty (960–1279 CE), depicting a mountain range of five peaks receding into the distance from left to right. The leftmost nearest peak is painted in deep concentrated black ink with full brushstroke detail, texture, and weight. The second peak uses slightly more diluted ink — somewhat lighter and less defined. The third peak is painted in pale grey wash, detail almost gone. The fourth peak is a faint whisper of diluted ink, barely a suggestion of form. The fifth and farthest peak dissolves entirely into the white paper — nearly invisible, indistinguishable from the sky. A tiny lone scholar figure stands at the base of the first dark peak, gazing into the fading distance. Painted on rice paper with visible ink bleed at brushstroke edges. Brushwork varies from thick calligraphic strokes in the foreground to the finest hairline traces in the background. The upper two-thirds of the composition is vast empty white space — emptiness is structural, not absence. Absolutely no color of any kind — only black ink in varying dilutions from near-black to near-white. No Western perspective, no cast shadows, no photographic shading, no outlines around sky areas, no decorative borders, no text, no labels, no modern elements.",
+  "model": "Banana (Gemini Imagen)",
+  "concept": "vanishing gradients",
+  "tradition_name": "Chinese ink wash painting (Shuimo)",
+  "tradition_period": "Song dynasty, 960–1279 CE",
+  "tradition_approach": "Targeted progressive ink dilution across a five-peak mountain range from near-black foreground to near-invisible background, vast empty white space as structural composition, visible brushstroke variation, and complete absence of color beyond ink tones on rice paper"
+}
